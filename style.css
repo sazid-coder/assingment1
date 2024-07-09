@@ -6,6 +6,22 @@
     font-family: "Azeret Mono", monospace;
 }
 
+.title-h2{
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 24px;
+    text-align: center;
+}
+
+.discription-p{
+    font-size: 16px;
+    line-height: 26px;
+    font-weight:200;
+    margin-bottom: 48px;
+    text-align: center;
+
+}
+
 .d-item-h2{
     color:#555A63;
     font-size: 24px;
@@ -26,6 +42,8 @@
     color:#555A63;
     cursor: pointer;
 }
+
+
 
 
 /* ============nav start======= */
@@ -95,18 +113,7 @@
 .d-heading{
     text-align: center;
 }
-.d-heading > h2{
-    font-size: 32px;
-    font-weight: bold;
-    margin-bottom: 24px;
-}
 
-.d-heading > p{
-    font-size: 16px;
-    line-height: 26px;
-    font-weight:200;
-    margin-bottom: 48px;
-}
 
 .d-item1{
     border-radius: 16px;
@@ -145,3 +152,21 @@
     padding:48px;
     margin-bottom: 32px;
 }
+
+
+
+.my-ins-heading{
+    margin-top: 90px;
+    padding:0px 144px;
+}
+.video{
+    padding: 32px;
+    border-radius: 30px;
+    border: 1px solid #CFD1D4;
+}
+.video iframe{
+    border-radius: 15px;
+}
+
+
+
