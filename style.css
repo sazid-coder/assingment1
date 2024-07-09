@@ -249,3 +249,34 @@
     color:black;
     bottom: 40px;
 }
+
+.support-cont{
+    margin-top: 50px;
+    background-image:linear-gradient(0.00deg, rgb(16, 16, 16) -19.5%,rgba(16, 16, 16, 0.58) 100%),url("assets/handshake.jpg");
+    background-size: cover;
+    padding:65px 200px;
+    background-position: center;
+    color:white;
+    border-radius: 16px;
+}
+
+.my-form{
+    text-align: center;
+}
+
+.my-form input[type="text"]{
+    width: 500px;
+    padding: 15px 20px;
+    border-radius: 8px;
+    border:none;
+    outline: none;
+
+}
+.my-form input[type="button"]{
+    font-weight: bold;
+    padding: 15px 20px;
+    border-radius: 8px;
+    border:none;
+    outline: none;
+    cursor: pointer;
+}
